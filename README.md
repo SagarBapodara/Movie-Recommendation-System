@@ -144,7 +144,9 @@ The demo working of this web app can be found [here](https://youtu.be/z4QQQ2U3Nx
 
 ## 🚀 Thanks
 
-Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :)
+Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :) 
+
+**If you found it useful, leave a ⭐ here!**
 
 ## License
 
