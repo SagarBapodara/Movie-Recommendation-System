@@ -2,9 +2,9 @@
 
 A movie recommender system is a system that seeks to predict or filter preferences according to the user's choices. The created Web-App using Python is a similar system, which suggests movies based on the user's liked movies.
 
-The model has been trained using a dataset of 5,000 movies! Find the dataset [here](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+The model has been trained using a dataset of 5,000 movies! Find the dataset [here 🔗](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
-Download the similarity model file (pkl) from [here](https://drive.google.com/file/d/1aF6TthiM_ZpVjcWAnbXg7OJAl0oAkXs1/view?usp=sharing)
+Download the similarity model file (pkl) from [here 🔗](https://drive.google.com/file/d/1aF6TthiM_ZpVjcWAnbXg7OJAl0oAkXs1/view?usp=sharing)
 
 ## Tech Used 
 
@@ -123,7 +123,7 @@ widgetsnbextension==3.5.2
 Clone this repository or Download the files into your local system. 
 
 - Extract the ZIP file (if you directly download from Github Web)
-- Download the similarity model file from [here](https://drive.google.com/file/d/1aF6TthiM_ZpVjcWAnbXg7OJAl0oAkXs1/view?usp=sharing)
+- Download the similarity model file from [here 🔗](https://drive.google.com/file/d/1aF6TthiM_ZpVjcWAnbXg7OJAl0oAkXs1/view?usp=sharing)
 - Make sure all the files are in the same folder/directory
 - Open your Command Prompt (CMD) in the same directory 
 - Type the following command (for web app) : 
@@ -140,7 +140,7 @@ pip install streamlit
 
 ## Working Demo 
 
-The demo working of this web app can be found [here](https://youtu.be/z4QQQ2U3NxU) | Do like it, if you watch it :) 
+The demo working of this web app can be found [here 🔗](https://youtu.be/z4QQQ2U3NxU) | Do like it, if you watch it :) 
 
 ## 🚀 Thanks
 
